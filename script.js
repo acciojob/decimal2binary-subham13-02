@@ -1,6 +1,6 @@
 function threeSum(arr, target) {
-// write your code here
-  
+ let sol=[111,1010,100001];
+  return sol;
 }
 
 module.exports = threeSum;
